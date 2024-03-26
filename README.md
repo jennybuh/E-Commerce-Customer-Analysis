@@ -10,18 +10,10 @@ In the competitive e-commerce sector, understanding evolving customer preference
 
 The primary goals are to:
 
-**Identify and Define Customer Segments:** Categorize customers based on their shopping behaviors and preferences from survey data.
-**Derive Actionable Business Insights:** Analyze the identified segments to provide a comprehensive Customer Lifetime Value (CLV) prediction, enabling efficient resource allocation and tailored strategy development.
+- **Identify and Define Customer Segments:** Categorize customers based on their shopping behaviors and preferences from survey data.
+- **Derive Actionable Business Insights:** Analyze the identified segments to provide a comprehensive Customer Lifetime Value (CLV) prediction, enabling efficient resource allocation and tailored strategy development.
 
-**Stakeholder Needs**
-The hypothetical/potential stakeholders include:
-
-- E-commerce business strategists looking for data-driven insights
-- Product managers seeking to understand customer preferences
-- Marketing teams aiming to tailor strategies based on customer segments
-- Setting Outcome Expectations
-  
-By the end of this analysis, the expectation is to:
+**By the end of this analysis, the expectation is to:**
 
 - Define distinct customer segments within the Amazon shopper base
 - Offer a CLV prediction for each segment to aid in strategic planning
