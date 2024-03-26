@@ -15,22 +15,22 @@ Problem Statement
 **Stakeholder Needs**
 The hypothetical/potential stakeholders include:
 
-- E-commerce business strategists looking for data-driven insights.
-- Product managers seeking to understand customer preferences.
-- Marketing teams aiming to tailor strategies based on customer segments.
+- E-commerce business strategists looking for data-driven insights
+- Product managers seeking to understand customer preferences
+- Marketing teams aiming to tailor strategies based on customer segments
 - Setting Outcome Expectations
-- 
+  
 By the end of this analysis, the expectation is to:
 
-Define distinct customer segments within the Amazon shopper base.
-Offer a CLV prediction for each segment to aid in strategic planning.
-Provide descriptive summaries and visualizations that highlight key findings.
+- Define distinct customer segments within the Amazon shopper base
+- Offer a CLV prediction for each segment to aid in strategic planning
+- Provide descriptive summaries and visualizations that highlight key findings
 
 **Tools/Technologies Used:**
 - SQL: For data transformation and preparation.
-- Python: Used for conducting segmentation analysis, specifically K-Means Clustering.
-- Excel and Tableau: For data visualization and presentation of findings.
-- 
+- Python: Used for conducting segmentation analysis, specifically K-Means Clustering
+- Excel and Tableau: For data visualization and presentation of findings
+  
 **Current Status**
 Data Transformation: Manipulating survey data using SQL to prepare for analysis.
 Next Steps: To proceed with segmentation analysis in Python and visualize findings in Excel and Tableau.
