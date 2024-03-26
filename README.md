@@ -10,8 +10,8 @@ In the competitive e-commerce sector, understanding evolving customer preference
 
 The primary goals are to:
 
-- **Identify and Define Customer Segments:** Categorize customers based on their shopping behaviors and preferences from survey data.
-- **Derive Actionable Business Insights:** Analyze the identified segments to provide a comprehensive Customer Lifetime Value (CLV) prediction, enabling efficient resource allocation and tailored strategy development.
+- **Identify and Define Customer Segments:** Categorize customers based on their shopping behaviors and preferences from survey data
+- **Derive Actionable Business Insights:** Analyze the identified segments to provide a comprehensive Customer Lifetime Value (CLV) prediction, enabling efficient resource allocation and tailored strategy development
 
 **By the end of this analysis, the expectation is to:**
 
