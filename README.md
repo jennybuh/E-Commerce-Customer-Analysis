@@ -26,4 +26,5 @@ The primary goals are to:
   
 **Current Status**
 Data Transformation: Manipulating survey data using SQL to prepare for analysis.
+
 Next Steps: To proceed with segmentation analysis in Python and visualize findings in Excel and Tableau.
