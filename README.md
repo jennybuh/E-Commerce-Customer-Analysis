@@ -3,14 +3,15 @@
 **Project Overview**
 This project focuses on analyzing Amazon customer survey data to categorize shopping behaviors and preferences. Leveraging SQL for data transformation, Python for segmentation analysis, and Excel and Tableau for data visualization, the aim is to uncover key customer segments and derive actionable business insights. This personal project is in progress and seeks to inform business decisions by understanding consumer behavior in detail.
 
+**Problem Statement**
+In the competitive e-commerce sector, understanding evolving customer preferences is crucial. This analysis takes an exploratory approach to address the need to segment customers based on their Amazon survey responses, providing a foundation for targeted business strategies.
+
 **Goals**
-This analysis takes an exploratory approach to address the need to segment customers based on their Amazon survey responses, providing a foundation for targeted business strategies.
 
 The primary goals are to:
 
 **Identify and Define Customer Segments:** Categorize customers based on their shopping behaviors and preferences from survey data.
-**Derive Actionable Business Insights: **Analyze the identified segments to provide a comprehensive Customer Lifetime Value (CLV) prediction, enabling efficient resource allocation and tailored strategy development.
-Problem Statement
+**Derive Actionable Business Insights:** Analyze the identified segments to provide a comprehensive Customer Lifetime Value (CLV) prediction, enabling efficient resource allocation and tailored strategy development.
 
 **Stakeholder Needs**
 The hypothetical/potential stakeholders include:
