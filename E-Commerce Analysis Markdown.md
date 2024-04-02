@@ -19,9 +19,7 @@ Evaluating Dataset and Notation - Initial Evaluation Conducted on Excel
 Answer Key for Amazon Customer Survey Data
 
 1.age= age
-
 2.gender= gender
-
 3.Purchase_Frequency= How frequently do you make purchases on Amazon?
 4.Purchase_Categories= What product categories do you typically purchase on Amazon?
 5.Personalized_Recommendation_Frequency = Have you ever made a purchase based on personalized product recommendations from Amazon?
