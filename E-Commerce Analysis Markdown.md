@@ -5,15 +5,16 @@ Data Validation and Cleaning
 Evaluating Dataset and Notation - Initial Evaluation Conducted on Excel
 
 - Survey was adminstered between June 4th 2023 to June 16th 2023 for a total of 12 days.
-- Survey recorded unique submissions, 1 entry per individual
+- Survey recorded unique submissions, 1 entry per individual.
 - Demographic information only includes age, and gender.
 - Behaviorial data regards purchasing features, browsing features, and interactions with reviews.
-- Column Product_Search_Method has 2 missing values
-- Age outlier value of "3"
+- Column Product_Search_Method has 2 missing values.
+- Age outlier value of "3".
 - Outlier value of "." for service Service_Appreciation, used a neutral rating of 3 to substitute.
 - Outlier value of "." for service Improvement_Areas used a neutral rating of 3 to substitute. 
 
 
+**Dataset was obtained publicly through Kaggle.**
 
 Answer Key for Amazon Customer Survey Data
 
