@@ -169,9 +169,9 @@ Service_Appreciation
 Improvement_Areas
 Cart_Abandonment_Factors
 
-**/
 
-/* Data Transformation Process*/
+
+/** Data Transformation Process **/
 
 ## Checking distinctive survey values to assign numeric values
 
