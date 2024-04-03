@@ -20,7 +20,7 @@ The primary goals are to:
 - Provide descriptive summaries and visualizations that highlight key findings
 
 **Tools/Technologies Used:**
-- SQL: For data transformation and preparation.
+- SQL: For data transformation and preparation
 - Python: Used for conducting segmentation analysis, specifically K-Means Clustering
 - Excel and Tableau: For data visualization and presentation of findings
   
